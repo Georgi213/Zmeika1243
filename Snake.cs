@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zmeika.Koršun
+namespace Zmeika.Blinov
 {
     class Snake : Figure
     {

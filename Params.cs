@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zmeika.Koršun
+namespace Zmeika.Blinov
 {
     public class Params
     {

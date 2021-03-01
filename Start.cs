@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Zmeika.Koršun
+namespace Zmeika.Blinov
 {
     public class Start
     {
